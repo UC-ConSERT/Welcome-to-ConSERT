@@ -1,2 +1,6 @@
 # Welcome to ConSERT - A brief introduction
-A brief introduction to setting up your VM allocation and accessing the UC research cluster. 
+A brief introduction to the group. 
+## Pending points
+1) Code of Conduct
+2) Welcome to the group
+3) What else?
