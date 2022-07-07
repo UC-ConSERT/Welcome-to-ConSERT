@@ -13,5 +13,11 @@ To get started, below is a overivew of each of the directories in this repositor
 ## 2) Introduction to Git
 What are we going to talk about?
 
-## 3) Genotyping by Sequencing quality control and analyses
+## 3) Data Management Principles
+Key principles the group operates under.
 
+## 4) Genotyping by Sequencing quality control and analyses
+What commonly comes from the sequencing facility. 
+    key file
+    raw data
+    and what to do next.
