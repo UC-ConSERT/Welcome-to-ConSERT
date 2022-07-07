@@ -1,7 +1,7 @@
 # Welcome to ConSERT - A brief introduction
-Kia ora and welcome the the Conservation, Systematics and Evolution Research Team repository! Here, we have a brief introduction to the command line interface (CLI), brief data carpentry and managment, and bioinformatic tools commonly used in this group. 
+Kia ora and welcome the the Conservation, Systematics and Evolution Research Team repository! Here, we have a brief introduction to the command line interface (CLI), data carpentry and managment, and bioinformatic tools commonly used in this group. 
 
-This information is freely available to members of ConSERT and readily available for modification as bioinformatic approaches/practices inevitably change overtime. 
+This information is freely available to members of ConSERT and readily available for modification as bioinformatic approaches/practices inevitably change overtime. We're open to feedback for how this documentation may be improved over time. :fire: 
 
 To get started, below is a overivew of each of the directories in this repository.
 
