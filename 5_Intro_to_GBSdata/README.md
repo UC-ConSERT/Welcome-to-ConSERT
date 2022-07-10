@@ -2,8 +2,8 @@
  - Brief outline of STACKS with link to manual.
  - Brief outline of reference guided and de novo SNP discovery.
  ```mermaid
- graph TD;
-    Raw sequence file-->Demultiplexing and trimming;
-    Demultiplexing and trimming-->de novo SNP discovery;
-    Demultiplexinga an trimming-->Reference guided SNP discovery;
+ flowchart TD
+    A((Raw sequence file)) --> B(Demultiplexing and trimming)
+    B(Demultiplexing and trimming) --> C(de novo SNP discovery)
+    B(Demultiplexinga an trimming) --> D(Reference guided SNP discovery)
 ```
