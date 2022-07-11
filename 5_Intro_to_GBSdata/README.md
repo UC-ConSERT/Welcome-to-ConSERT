@@ -3,7 +3,9 @@
  - Brief outline of reference guided and *de novo* SNP discovery.
  ```mermaid
  flowchart TD
-    A((Raw sequence file)) --> B(Demultiplexing and trimming)
-    B(Demultiplexing and trimming) --> C(_de novo_ SNP discovery)
-    B(Demultiplexing and trimming) --> D(Reference guided SNP discovery)
+    A((Raw Sequence File)) --> B(Demultiplexing and Trimming)
+    B(Demultiplexing and Trimming) --> C(de novo SNP Discovery)
+    B(Demultiplexing and trimming) --> D(Reference Guided SNP Discovery)
+    C(de novo SNP Discovery) --> E(STACKS populations)
+    D(Reference Guided SNP Discovery) --> E(STACKS populations)
 ```
