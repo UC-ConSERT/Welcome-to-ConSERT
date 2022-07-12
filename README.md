@@ -23,3 +23,4 @@ Chances are you will be working with large data sets that require more RAM and s
 If you're working with genotyping-by-sequence data (GBS), [here](https://github.com/UC-ConSERT/Welcome-to-ConSERT/tree/main/5_Intro_to_GBSdata) we provide some template scripts for running the STACKS pipeline. We outline steps for pre-processing and trimming your reads, and the next steps for either genome alignment or an alignment free approach to SNP discovery.
 
 ## 6) Whole genome resequence data quality control and preliminary analyses
+If you're working with Illumina resequence data, [here](https://github.com/UC-ConSERT/Welcome-to-ConSERT/tree/main/6_Intro_to_Illumina_WGS) we provide template scripts for quality control of reads, alignment to a reference genome and quality metrics. 
