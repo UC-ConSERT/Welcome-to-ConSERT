@@ -3,12 +3,12 @@ Kia ora and welcome the the Conservation, Systematics and Evolution Research Tea
 
 This information is freely available to members of ConSERT and readily available for modification as bioinformatic approaches/practices inevitably change overtime. We're also open to and welcome feedback on how this documentation. :fire: 
 
-It is important to note that the information provided here in this repository is simply to serve as a brief introduction to concepts and practices you'll likely use as a member of our group. It is NOT intended to serve as the only resource you would want to access. In fact, there are a wealth of resources available elsewhere that will cover this material better and with more detail than is provided here. Links to suggested resources for additional learning will be made available within each directory. :smiley:
+It is important to note that the information provided in this repository is simply to provide brief introduction to concepts and practices you'll likely use as a member of our group. It is NOT intended to serve as the only resource you would want to access and is designed to be reviewed as a group or alongside a more experienced lab member. As a general rule, this material can be seen as a starting point for your own learning. Therefore we aim to point folks in the general direction of useful and informative external resources that will cover this material thoroughly and in more detail than outlined here. Links to these suggested resources for additional learning will be made available within each directory. :smiley:
 
 Below is a overview of each of the directories in this repository. To get started on any particular topic, head to the relevant directory above or click on the links provided below. 
 
 ## 1) Introduction to the command line and bash
-[This section](https://github.com/UC-ConSERT/Welcome-to-ConSERT/tree/main/1_Intro_to_bash) is for anyone who may be new to the command line interface (CLI), or just needs a refresher. This sections explores common commands for parsing data files, maneuvering through directories and simple loops. We also introduce some regular expressions and tips for writing scripts.
+[This section](https://github.com/UC-ConSERT/Welcome-to-ConSERT/tree/main/1_Intro_to_bash) is for anyone who may be new to the command line interface (CLI), or just needs a refresher. This section provides resources to explore common commands for parsing data files, maneuver through directories and the syntax of simple loops. There are also some resources for investigating the utility of regular expressions.
 
 ## 2) Introduction to Git
 In [this section](https://github.com/UC-ConSERT/Welcome-to-ConSERT/tree/main/2_Intro_to_Git) we explore Git, what it is, why you want to use it, and how it may be helpful when working on collaborative projects.
