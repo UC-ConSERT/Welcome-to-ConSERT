@@ -1,8 +1,8 @@
 #!/bin/bash
 ##################################################################################################
-#Prepare by moving all required ustacks files to the appropriate cstacks directory. 
-#This makes it so that the remaining processes can all occur in the same file (e.g., sstacks,  
-#tsv2bam, and gstacks)
+# Prepare by moving all required ustacks files to the appropriate cstacks directory. 
+# This makes it so that the remaining processes can all occur in the same file (e.g., sstacks,  
+# tsv2bam, and gstacks)
 ##################################################################################################
 ustacks=/data/Tbulleri/ustacks/
 N_cstacks=/data/Tbulleri/cstacks/Northern/

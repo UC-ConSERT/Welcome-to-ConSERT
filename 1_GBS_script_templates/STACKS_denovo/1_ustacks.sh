@@ -1,7 +1,7 @@
 #!/bin/bash
 #########################################################################################################
-# Running the ustacks pipeline for STACKSv2.41. Values of M ranging from 1 - 8 were tested while values
-# of m ranging from 3-7 were tested for each value of M. 
+# Running the ustacks pipeline for STACKSv2.41. This is an example where values of M were tested from 
+# 1 - 8 were tested while values of m ranging from 3-7 were tested for each value of M.
 #########################################################################################################
 work=/data/Tbulleri/trimmed_cropped_radtags2/ # Set working directory
 out=/data/Tbulleri/ustacks/ # Set output directory

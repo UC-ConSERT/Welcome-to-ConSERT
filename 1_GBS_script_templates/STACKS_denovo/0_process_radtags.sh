@@ -1,13 +1,15 @@
 #!/bin/bash
 #############################################################################
-# Running radtags and fastqc for processed reads. We had extensive adaptor 
-# contamination that required extra processing. 
+# Running radtags and fastqc for processed reads. QC metrics output by fastQC 
+# can be visualised using multiqc. 
 #############################################################################
-data=/data/Tbulleri/reads/
+data=/data/Tbulleri/
 out=/data/Tbulleri/radtags/
 trim=/data/Tbulleri/trimmed_fastqc/
 
-for file in ${data}*fastq.gz
+mkdir -p ${data}{radtags,trimmed_fastqc}
+
+for file in ${data}reads/*.fastq.gz
     do
     base=$(basename ${file} .fastq.gz)
     echo "Running radtags for ${base}..."
@@ -17,6 +19,7 @@ wait
 for file in $f{out}/*.fq.gz
     do
     base=$(basename $file .fq.gz)
-    echo "Working on file $base"
+    echo "Running fastQC for $base"
 	fastqc -o ${trim} ${file}
 done
+multiqc ${trim}

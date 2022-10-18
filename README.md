@@ -16,7 +16,7 @@ If you're working with Illumina resequence data and are in posession of a refere
 # The options below are still WIP.
 
 ## 3) QC for ONT long-read data
-Outline some simple tips and tricks for assessing ONT basecalling, read quality and trimming. 
+Outline some simple tips and tricks for assessing ONT basecalling, read quality and trimming.
 
 ## 4) Overivew of population analyses
 Here outline suggested methods for estimating heterozygosity, admixture, ROH, rarefaction, XXX?
